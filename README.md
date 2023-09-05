@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Prime Flix
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlmasBrightSky/Assets/blob/Main/LICENSE) 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Sobre o projeto
 
-## Available Scripts
+O projeto foi desenvolvido durante o curso de Desenvolvedor feita na Udemy, organizada pela matheus, vulgo sujeito programador.
 
-In the project directory, you can run:
+A aplicação tem como o intuito servir como um seletor de filmes para o usúario salvar os filmes recentes que mais deseja assistir, Durante o projeto utilizamos diversas ferramentas e diferentes api, para o melhor andamento do código. 
 
-### `npm start`
+Site Do Projeto (https://prime-flix-projeto.netlify.app)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Layout Mobile
+![Mob 1](https://github.com/AlmasBrightSky/Assets/blob/Main/Assets/Orlando%20City%20Menu.mobile.fw.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Mob 1](https://github.com/AlmasBrightSky/Assets/blob/Main/Assets/Orlando%20City.mobile.fw.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Layout web
+![Web 1](https://github.com/AlmasBrightSky/Assets/blob/Main/Assets/Orlando%20City.fw.png)
 
-### `npm run build`
+# Tecnologias utilizadas
+- React Js, Css, Html
+- Frameworks do React: React Router Doms/ React Toastify
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Autor
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Lucas Vinicius De Almeida Lima (Almas)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+https://www.linkedin.com/in/lucas-almeida-52b64522b/
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Projeto desenvolvido durante o curso de React Js do zero ao avançado.
