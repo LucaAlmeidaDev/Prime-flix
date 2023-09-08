@@ -1,31 +1,37 @@
-# Prime Flix
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlmasBrightSky/Assets/blob/Main/LICENSE) 
+<h1 align='center'>Prime Flix</h1>
 
-# Sobre o projeto
+### Sobre o projeto
 
 O projeto foi desenvolvido durante o curso de Desenvolvedor feita na Udemy, organizada pela matheus, vulgo sujeito programador.
-
 A aplicação tem como o intuito servir como um seletor de filmes para o usúario salvar os filmes recentes que mais deseja assistir, Durante o projeto utilizamos diversas ferramentas e diferentes api, para o melhor andamento do código. 
 
-Site Do Projeto (https://prime-flix-projeto.netlify.app)
+<h2 align='center'>Site do Projeto</h2>
+<div align='center'>
+  <a href="https://prime-flix-projeto.netlify.app" target="_blank"><img src="https://camo.githubusercontent.com/8bc14943fdb3467c9c8ab64e8bcf1308f676037b22703494cee54d8c02c8157e/68747470733a2f2f63646e2e6e65746c6966792e636f6d2f313565636635396235396339643034623838303937633662356432633765386137643133303264302f31623664362f696d672f70726573732f6c6f676f732f66756c6c2d6c6f676f2d6c696768742e737667" ></a>
+</div>
 
-## Layout Mobile
-![Mob 1](https://github.com/AlmasBrightSky/Assets/blob/Main/Assets/Orlando%20City%20Menu.mobile.fw.png)
+<h2 align='center'>Layout Mobile</h2>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/prime-flix-projeto.netlify.app_(iPhone%20SE)%20(1).png"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/prime-flix-projeto.netlify.app_(iPhone%20SE).png"/></p>
 
-![Mob 1](https://github.com/AlmasBrightSky/Assets/blob/Main/Assets/Orlando%20City.mobile.fw.png)
+
+<h2 align='center'>Layout Web</h2>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/prime-flix-projeto.netlify.app_filme_976573%20(1).png"/></p>
+
+<h2 align='center'>Tecnologias Utilizadas</h2>
+<div align='center'>
+  <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
+  <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
+  <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
+  <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+</div>
+
+<h2 align='center'>Autor</h2>
+<p align='center'>Lucas Vinicius De Almeida Lima (Almas) | Projeto desenvolvido durante o curso de ReactJS do básico ao Avançado.</p>
+
+<div align='center'>
+  <a href="https://www.linkedin.com/in/lucas-almeida-52b64522b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 
-## Layout web
-![Web 1](https://github.com/AlmasBrightSky/Assets/blob/Main/Assets/Orlando%20City.fw.png)
 
-# Tecnologias utilizadas
-- React Js, Css, Html
-- Frameworks do React: React Router Doms/ React Toastify
-
-# Autor
-
-Lucas Vinicius De Almeida Lima (Almas)
-
-https://www.linkedin.com/in/lucas-almeida-52b64522b/
-
-Projeto desenvolvido durante o curso de React Js do zero ao avançado.
