@@ -2,8 +2,8 @@
 
 ### Sobre o projeto
 
-O projeto foi desenvolvido durante o curso de Desenvolvedor feita na Udemy, organizada pela matheus, vulgo sujeito programador.
-A aplicação tem como o intuito servir como um seletor de filmes para o usúario salvar os filmes recentes que mais deseja assistir, Durante o projeto utilizamos diversas ferramentas e diferentes api, para o melhor andamento do código. 
+O projeto foi desenvolvido durante o curso de Desenvolvedor feita na Udemy, organizada pelo professor Matheus.
+A aplicação tem como o intuito servir como um seletor de filmes para o usúario salvar os filmes recentes que mais deseja assistir, com opções de busca direta de trailers para o youtube,um design responsivo e com atualização frequente usando a api da themoviedb, durante o projeto utilizamos diversas ferramentas para o melhor andamento do código. 
 
 <h2 align='center'>Site do Projeto</h2>
 <div align='center'>
@@ -11,9 +11,8 @@ A aplicação tem como o intuito servir como um seletor de filmes para o usúari
 </div>
 
 <h2 align='center'>Layout Mobile</h2>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/prime-flix-projeto.netlify.app_(iPhone%20SE)%20(1).png"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/prime-flix-projeto.netlify.app_(iPhone%20SE).png"/></p>
-
+<p align="center"><img width="400px" height="500px" src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/prime-flix-projeto.netlify.app_(iPhone%20SE)%20(1).png"/></p>
+<p align="center"><img width="400px" height="500px" src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/prime-flix-projeto.netlify.app_(iPhone%20SE).png"/></p>
 
 <h2 align='center'>Layout Web</h2>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/prime-flix-projeto.netlify.app_filme_976573%20(1).png"/></p>
